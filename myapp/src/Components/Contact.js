@@ -11,8 +11,8 @@ const Contact = () => {
 
       <div className='container p-4'>
         <div className='row'>
-          <div className='col-12 col-lg-6 border shadow rounded p-3'>
-            <h1>Contact</h1>
+          <div className='col-12 col-lg-6 border shadow rounded p-5  bg-black text-white'>
+            <h1>Provide your details</h1>
             <form>
               <div className="mb-3" id='contact'>
                 <label for="exampleFormControlInput1" className="form-label">Name</label>

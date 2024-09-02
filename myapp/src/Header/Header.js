@@ -5,7 +5,7 @@ import { Link, NavLink } from 'react-router-dom'
 const Header = () => {
   return (
     <div>
-        <nav className="navbar navbar-expand-lg navbar-light position-sticky head ">
+        <nav className="navbar navbar-expand-lg navbar-light position-sticky head background-image ">
           <div className="container-fluid">
             <NavLink className="navbar-brand text-white  " to="#">
             <i className='bi bi-heart-fill text-danger border p-2 bg-black rounded link '>Portfolio</i>

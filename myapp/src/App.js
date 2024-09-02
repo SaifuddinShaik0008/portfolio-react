@@ -11,7 +11,7 @@ import Footer from './FOOTER/Footer';
 
 function App() {
   return (
-    <div className="App background-image text-white">
+    <div className="App ">
       <Header/>
       <Routings/>
       <Footer/>
